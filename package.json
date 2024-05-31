@@ -1,0 +1,25 @@
+{
+  "name": "webpack-restaurant-odin",
+  "version": "1.0.0",
+  "description": "Restaurant Page project built using webpack and javascript. Completed as a part of the JavaScript courses for the Odin Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicholaswfowler/webpack-restaurant-odin.git"
+  },
+  "author": "Nicholas Fowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholaswfowler/webpack-restaurant-odin/issues"
+  },
+  "homepage": "https://github.com/nicholaswfowler/webpack-restaurant-odin#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
